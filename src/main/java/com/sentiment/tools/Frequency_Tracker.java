@@ -16,7 +16,7 @@ public class Frequency_Tracker {
 				}
 			}
 			String[] no_punctuationsA= no_punctuations.split(" ");
-			System.out.println(no_punctuationsA[3]);
+			System.out.println(no_punctuationsA[1]);
 					
 		}
 
